@@ -59,7 +59,7 @@ opacity:0.5;
 
 }
 .image{
-background: #eeeeee url('../images/volume1.gif');
+background: url('../images/volume1.gif');
  float:center;
 }
 
