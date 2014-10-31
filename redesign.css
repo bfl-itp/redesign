@@ -61,5 +61,7 @@ opacity:0.5;
 .image{
 padding:30px;
  float:center;
+ text-align:center;
+ width:50%;
 }
 
